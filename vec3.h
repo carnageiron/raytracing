@@ -48,3 +48,6 @@ using color = vec3; // rgb color
 #endif
 
 //vec3 utility functions 
+
+inline std::ostream& operator<<(std::ostream &out, const vec3 &v){
+  return out << v.e[0] << ' '  << v.e[1] << ' ' << v.e[2];

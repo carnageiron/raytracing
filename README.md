@@ -1,5 +1,5 @@
 # raytracing
-listing 16/17 reading needs to be done
-start listing 18
-5:11pm
+listing 27 needs to be done
+listing 28 already done
+11:11pm
 logging off

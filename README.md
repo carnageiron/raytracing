@@ -1,6 +1,5 @@
 # raytracing
-
-start 6.2 (simplifying the ray sphere intersection code)
-start listing 12
-3:43pm
+listing 16/17 reading needs to be done
+start listing 18
+5:11pm
 logging off

@@ -1,11 +1,10 @@
 # raytracing
-listing 27 needs to be done
+listing 39 needs to be done
+
+##do not skip any listings!!!!!!!!
 
 
-listing 28 already done
-
-
-11:11pm
+9:53pm
 
 
 logging off

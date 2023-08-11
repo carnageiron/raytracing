@@ -41,7 +41,7 @@ This repository contains a simple ray tracing implementation in Rust. Ray tracin
 
 ## Configuration
 
-You can adjust various settings in the `main.rs` file, such as image dimensions, camera properties, and scene setup.
+You can adjust various settings in the `main.cc` file, such as image dimensions, camera properties, and scene setup.
 
 ## Contributing
 

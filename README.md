@@ -2,7 +2,7 @@
 
 ![Ray Tracing Demo](test.jpg)
 
-This repository contains a simple ray tracing implementation in Rust. Ray tracing is a technique used in computer graphics to simulate the way light interacts with objects in a scene, producing realistic images.
+This repository contains a simple ray tracing implementation in C++. Ray tracing is a technique used in computer graphics to simulate the way light interacts with objects in a scene, producing realistic images.
 
 ## Features
 
